@@ -7,6 +7,49 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0504E91721F7CC2300F9DF4A /* RocketScoringViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0504E91621F7CC2300F9DF4A /* RocketScoringViewController.swift */; };
+		0504E91921F7CDF600F9DF4A /* hatch3.png in Resources */ = {isa = PBXBuildFile; fileRef = 0504E91821F7CDF600F9DF4A /* hatch3.png */; };
+		0504E91B21F7D10900F9DF4A /* Rocket2.png in Resources */ = {isa = PBXBuildFile; fileRef = 0504E91A21F7D10800F9DF4A /* Rocket2.png */; };
+		0504E91D21F7D1BF00F9DF4A /* CargoBall.png in Resources */ = {isa = PBXBuildFile; fileRef = 0504E91C21F7D1BE00F9DF4A /* CargoBall.png */; };
+		0504E91F21F7D88D00F9DF4A /* Hatch4.png in Resources */ = {isa = PBXBuildFile; fileRef = 0504E91E21F7D88D00F9DF4A /* Hatch4.png */; };
+		0504E92521F7E5EE00F9DF4A /* CargoRotated2.png in Resources */ = {isa = PBXBuildFile; fileRef = 0504E92421F7E5ED00F9DF4A /* CargoRotated2.png */; };
+		0504E92721FBD45900F9DF4A /* BlankImage.png in Resources */ = {isa = PBXBuildFile; fileRef = 0504E92621FBD45900F9DF4A /* BlankImage.png */; };
+		0504E92A21FBDF8E00F9DF4A /* plus.png in Resources */ = {isa = PBXBuildFile; fileRef = 0504E92821FBDF8C00F9DF4A /* plus.png */; };
+		0504E92B21FBDF8E00F9DF4A /* minus.png in Resources */ = {isa = PBXBuildFile; fileRef = 0504E92921FBDF8D00F9DF4A /* minus.png */; };
+		050D9E9321F37662007BB319 /* PitScouting2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 050D9E9221F37662007BB319 /* PitScouting2ViewController.swift */; };
+		050D9E9521F38923007BB319 /* camera2048.png in Resources */ = {isa = PBXBuildFile; fileRef = 050D9E9421F38923007BB319 /* camera2048.png */; };
+		050D9E9921F3ABB8007BB319 /* Cargo.png in Resources */ = {isa = PBXBuildFile; fileRef = 050D9E9621F3ABB7007BB319 /* Cargo.png */; };
+		050D9E9A21F3ABB8007BB319 /* Rocket.png in Resources */ = {isa = PBXBuildFile; fileRef = 050D9E9721F3ABB7007BB319 /* Rocket.png */; };
+		050D9E9B21F3ABB8007BB319 /* RocketTop.png in Resources */ = {isa = PBXBuildFile; fileRef = 050D9E9821F3ABB8007BB319 /* RocketTop.png */; };
+		050D9E9F21F3ACBF007BB319 /* RocketTopRight.png in Resources */ = {isa = PBXBuildFile; fileRef = 050D9E9C21F3ACBF007BB319 /* RocketTopRight.png */; };
+		050D9EA021F3ACBF007BB319 /* RocketTopLeft.png in Resources */ = {isa = PBXBuildFile; fileRef = 050D9E9D21F3ACBF007BB319 /* RocketTopLeft.png */; };
+		050D9EA321F3B11C007BB319 /* RocketBottom.png in Resources */ = {isa = PBXBuildFile; fileRef = 050D9EA221F3B11C007BB319 /* RocketBottom.png */; };
+		050D9EA521F3B330007BB319 /* ScoringViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 050D9EA421F3B330007BB319 /* ScoringViewController.swift */; };
+		0512D89F21FCD8F200CF67C5 /* CargoShipScoringViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0512D89E21FCD8F200CF67C5 /* CargoShipScoringViewController.swift */; };
+		051639B121F293C20081ACF6 /* MatchDataViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 051639B021F293C20081ACF6 /* MatchDataViewController.swift */; };
+		051639B321F2A77D0081ACF6 /* PitScoutingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 051639B221F2A77D0081ACF6 /* PitScoutingViewController.swift */; };
+		051894702201183300F33F1B /* MatchFinishViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0518946F2201183300F33F1B /* MatchFinishViewController.swift */; };
+		052F9E482205E5FB00FEE0D6 /* ViewDataViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 052F9E472205E5FB00FEE0D6 /* ViewDataViewController.swift */; };
+		052F9E4A2205E63800FEE0D6 /* ViewDataButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 052F9E492205E63800FEE0D6 /* ViewDataButton.swift */; };
+		052F9E4C2205EE4300FEE0D6 /* IndividualTeamDataViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 052F9E4B2205EE4300FEE0D6 /* IndividualTeamDataViewController.swift */; };
+		052F9E4E2206120300FEE0D6 /* EmailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 052F9E4D2206120300FEE0D6 /* EmailViewController.swift */; };
+		052F9E532206129200FEE0D6 /* SampleSpreadsheetNew.csv in Resources */ = {isa = PBXBuildFile; fileRef = 052F9E4F2206129200FEE0D6 /* SampleSpreadsheetNew.csv */; };
+		052F9E542206129200FEE0D6 /* SpreadsheetTestcopy.csv in Resources */ = {isa = PBXBuildFile; fileRef = 052F9E502206129200FEE0D6 /* SpreadsheetTestcopy.csv */; };
+		052F9E552206129200FEE0D6 /* SpreadsheetTestcopy.txt in Resources */ = {isa = PBXBuildFile; fileRef = 052F9E512206129200FEE0D6 /* SpreadsheetTestcopy.txt */; };
+		052F9E562206129200FEE0D6 /* SampleSpreadsheetcopy3.csv in Resources */ = {isa = PBXBuildFile; fileRef = 052F9E522206129200FEE0D6 /* SampleSpreadsheetcopy3.csv */; };
+		052F9E59220617F200FEE0D6 /* Spreadsheet2 copy.csv in Resources */ = {isa = PBXBuildFile; fileRef = 052F9E57220617F200FEE0D6 /* Spreadsheet2 copy.csv */; };
+		052F9E5A220617F200FEE0D6 /* Spreadsheet2.csv in Resources */ = {isa = PBXBuildFile; fileRef = 052F9E58220617F200FEE0D6 /* Spreadsheet2.csv */; };
+		052F9E5C22061B8C00FEE0D6 /* QRSplitViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 052F9E5B22061B8C00FEE0D6 /* QRSplitViewController.swift */; };
+		052F9E5E2206275900FEE0D6 /* QRCodeGeneratorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 052F9E5D2206275900FEE0D6 /* QRCodeGeneratorViewController.swift */; };
+		052F9E6222062A9100FEE0D6 /* QRCodeReaderViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 052F9E6122062A9100FEE0D6 /* QRCodeReaderViewController.swift */; };
+		052F9E64220A4B4B00FEE0D6 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 052F9E63220A4B4B00FEE0D6 /* CameraViewController.swift */; };
+		057303E1220E4AD0000D0FDA /* PhotoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 057303E0220E4AD0000D0FDA /* PhotoViewController.swift */; };
+		057D776C2230C9E400A00943 /* Spreadsheet2 copy 2.csv in Resources */ = {isa = PBXBuildFile; fileRef = 057D776B2230C9E400A00943 /* Spreadsheet2 copy 2.csv */; };
+		059417E3221CB053006ACB04 /* ServerSplitViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 059417E2221CB053006ACB04 /* ServerSplitViewController.swift */; };
+		059417E5221CB593006ACB04 /* DropboxViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 059417E4221CB593006ACB04 /* DropboxViewController.swift */; };
+		059417E72225F5FC006ACB04 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 059417E62225F5FC006ACB04 /* GoogleService-Info.plist */; };
+		059417E92225FE86006ACB04 /* FirebaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 059417E82225FE86006ACB04 /* FirebaseViewController.swift */; };
+		059417ED2226001A006ACB04 /* MatchData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 059417EC2226001A006ACB04 /* MatchData.swift */; };
 		05B31F6321EE95BE001E5200 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05B31F6221EE95BE001E5200 /* AppDelegate.swift */; };
 		05B31F6521EE95BE001E5200 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05B31F6421EE95BE001E5200 /* ViewController.swift */; };
 		05B31F6821EE95BE001E5200 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 05B31F6621EE95BE001E5200 /* Main.storyboard */; };
@@ -15,6 +58,14 @@
 		05B31F7021EE95BF001E5200 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 05B31F6E21EE95BF001E5200 /* LaunchScreen.storyboard */; };
 		05B31F7B21EE95C0001E5200 /* ScoutingApp2170_2019Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05B31F7A21EE95C0001E5200 /* ScoutingApp2170_2019Tests.swift */; };
 		05B31F8621EE95C0001E5200 /* ScoutingApp2170_2019UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05B31F8521EE95C0001E5200 /* ScoutingApp2170_2019UITests.swift */; };
+		05B31F9D21EE9FF0001E5200 /* BackgroundView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05B31F9C21EE9FF0001E5200 /* BackgroundView.swift */; };
+		05B31F9F21EEA3E5001E5200 /* GHS Robotics Logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 05B31F9E21EEA3E5001E5200 /* GHS Robotics Logo.png */; };
+		05B31FA221EEB340001E5200 /* TransparentBackArrow.png in Resources */ = {isa = PBXBuildFile; fileRef = 05B31FA021EEB33F001E5200 /* TransparentBackArrow.png */; };
+		05B31FA321EEB340001E5200 /* TransparentForwardArrow.png in Resources */ = {isa = PBXBuildFile; fileRef = 05B31FA121EEB33F001E5200 /* TransparentForwardArrow.png */; };
+		05B31FA521EEB42C001E5200 /* DataChoiceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05B31FA421EEB42C001E5200 /* DataChoiceViewController.swift */; };
+		05DDFCA3222AD42B00CF334E /* SuperScoutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05DDFCA2222AD42B00CF334E /* SuperScoutViewController.swift */; };
+		05DDFCA5222AF1A400CF334E /* SuperScout2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05DDFCA4222AF1A400CF334E /* SuperScout2ViewController.swift */; };
+		D8F2B4BE60548F08EA8E0FA0 /* Pods_ScoutingApp2170_2019.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 952E911B71C4432CEF447D83 /* Pods_ScoutingApp2170_2019.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +86,49 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0504E91621F7CC2300F9DF4A /* RocketScoringViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RocketScoringViewController.swift; sourceTree = "<group>"; };
+		0504E91821F7CDF600F9DF4A /* hatch3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hatch3.png; sourceTree = "<group>"; };
+		0504E91A21F7D10800F9DF4A /* Rocket2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Rocket2.png; sourceTree = "<group>"; };
+		0504E91C21F7D1BE00F9DF4A /* CargoBall.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CargoBall.png; sourceTree = "<group>"; };
+		0504E91E21F7D88D00F9DF4A /* Hatch4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Hatch4.png; sourceTree = "<group>"; };
+		0504E92421F7E5ED00F9DF4A /* CargoRotated2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = CargoRotated2.png; path = ../../../Downloads/CargoRotated2.png; sourceTree = "<group>"; };
+		0504E92621FBD45900F9DF4A /* BlankImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BlankImage.png; sourceTree = "<group>"; };
+		0504E92821FBDF8C00F9DF4A /* plus.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = plus.png; sourceTree = "<group>"; };
+		0504E92921FBDF8D00F9DF4A /* minus.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = minus.png; sourceTree = "<group>"; };
+		050D9E9221F37662007BB319 /* PitScouting2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PitScouting2ViewController.swift; sourceTree = "<group>"; };
+		050D9E9421F38923007BB319 /* camera2048.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = camera2048.png; sourceTree = "<group>"; };
+		050D9E9621F3ABB7007BB319 /* Cargo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Cargo.png; sourceTree = "<group>"; };
+		050D9E9721F3ABB7007BB319 /* Rocket.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Rocket.png; sourceTree = "<group>"; };
+		050D9E9821F3ABB8007BB319 /* RocketTop.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = RocketTop.png; sourceTree = "<group>"; };
+		050D9E9C21F3ACBF007BB319 /* RocketTopRight.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = RocketTopRight.png; sourceTree = "<group>"; };
+		050D9E9D21F3ACBF007BB319 /* RocketTopLeft.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = RocketTopLeft.png; sourceTree = "<group>"; };
+		050D9EA221F3B11C007BB319 /* RocketBottom.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = RocketBottom.png; sourceTree = "<group>"; };
+		050D9EA421F3B330007BB319 /* ScoringViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScoringViewController.swift; sourceTree = "<group>"; };
+		0512D89E21FCD8F200CF67C5 /* CargoShipScoringViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CargoShipScoringViewController.swift; sourceTree = "<group>"; };
+		051639B021F293C20081ACF6 /* MatchDataViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatchDataViewController.swift; sourceTree = "<group>"; };
+		051639B221F2A77D0081ACF6 /* PitScoutingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PitScoutingViewController.swift; sourceTree = "<group>"; };
+		0518946F2201183300F33F1B /* MatchFinishViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatchFinishViewController.swift; sourceTree = "<group>"; };
+		052F9E472205E5FB00FEE0D6 /* ViewDataViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewDataViewController.swift; sourceTree = "<group>"; };
+		052F9E492205E63800FEE0D6 /* ViewDataButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewDataButton.swift; sourceTree = "<group>"; };
+		052F9E4B2205EE4300FEE0D6 /* IndividualTeamDataViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IndividualTeamDataViewController.swift; sourceTree = "<group>"; };
+		052F9E4D2206120300FEE0D6 /* EmailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmailViewController.swift; sourceTree = "<group>"; };
+		052F9E4F2206129200FEE0D6 /* SampleSpreadsheetNew.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = SampleSpreadsheetNew.csv; sourceTree = "<group>"; };
+		052F9E502206129200FEE0D6 /* SpreadsheetTestcopy.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = SpreadsheetTestcopy.csv; sourceTree = "<group>"; };
+		052F9E512206129200FEE0D6 /* SpreadsheetTestcopy.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = SpreadsheetTestcopy.txt; sourceTree = "<group>"; };
+		052F9E522206129200FEE0D6 /* SampleSpreadsheetcopy3.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = SampleSpreadsheetcopy3.csv; sourceTree = "<group>"; };
+		052F9E57220617F200FEE0D6 /* Spreadsheet2 copy.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Spreadsheet2 copy.csv"; sourceTree = "<group>"; };
+		052F9E58220617F200FEE0D6 /* Spreadsheet2.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Spreadsheet2.csv; sourceTree = "<group>"; };
+		052F9E5B22061B8C00FEE0D6 /* QRSplitViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QRSplitViewController.swift; sourceTree = "<group>"; };
+		052F9E5D2206275900FEE0D6 /* QRCodeGeneratorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QRCodeGeneratorViewController.swift; sourceTree = "<group>"; };
+		052F9E6122062A9100FEE0D6 /* QRCodeReaderViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QRCodeReaderViewController.swift; sourceTree = "<group>"; };
+		052F9E63220A4B4B00FEE0D6 /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
+		057303E0220E4AD0000D0FDA /* PhotoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoViewController.swift; sourceTree = "<group>"; };
+		057D776B2230C9E400A00943 /* Spreadsheet2 copy 2.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Spreadsheet2 copy 2.csv"; sourceTree = "<group>"; };
+		059417E2221CB053006ACB04 /* ServerSplitViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServerSplitViewController.swift; sourceTree = "<group>"; };
+		059417E4221CB593006ACB04 /* DropboxViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DropboxViewController.swift; sourceTree = "<group>"; };
+		059417E62225F5FC006ACB04 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		059417E82225FE86006ACB04 /* FirebaseViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirebaseViewController.swift; sourceTree = "<group>"; };
+		059417EC2226001A006ACB04 /* MatchData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatchData.swift; sourceTree = "<group>"; };
 		05B31F5F21EE95BE001E5200 /* ScoutingApp2170_2019.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ScoutingApp2170_2019.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		05B31F6221EE95BE001E5200 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		05B31F6421EE95BE001E5200 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -49,6 +143,18 @@
 		05B31F8121EE95C0001E5200 /* ScoutingApp2170_2019UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ScoutingApp2170_2019UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		05B31F8521EE95C0001E5200 /* ScoutingApp2170_2019UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScoutingApp2170_2019UITests.swift; sourceTree = "<group>"; };
 		05B31F8721EE95C0001E5200 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		05B31F9C21EE9FF0001E5200 /* BackgroundView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundView.swift; sourceTree = "<group>"; };
+		05B31F9E21EEA3E5001E5200 /* GHS Robotics Logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "GHS Robotics Logo.png"; sourceTree = "<group>"; };
+		05B31FA021EEB33F001E5200 /* TransparentBackArrow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TransparentBackArrow.png; sourceTree = "<group>"; };
+		05B31FA121EEB33F001E5200 /* TransparentForwardArrow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TransparentForwardArrow.png; sourceTree = "<group>"; };
+		05B31FA421EEB42C001E5200 /* DataChoiceViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataChoiceViewController.swift; sourceTree = "<group>"; };
+		05DDFCA2222AD42B00CF334E /* SuperScoutViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SuperScoutViewController.swift; sourceTree = "<group>"; };
+		05DDFCA4222AF1A400CF334E /* SuperScout2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SuperScout2ViewController.swift; sourceTree = "<group>"; };
+		0F61624DB6D3A4906B6A4C70 /* Pods_ScoutingApp2170_2019UITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ScoutingApp2170_2019UITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		11687BB173454511191EBAF9 /* Pods-ScoutingApp2170_2019.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ScoutingApp2170_2019.release.xcconfig"; path = "Target Support Files/Pods-ScoutingApp2170_2019/Pods-ScoutingApp2170_2019.release.xcconfig"; sourceTree = "<group>"; };
+		39C5341D5E023C906E207D2D /* Pods_ScoutingApp2170_2019Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ScoutingApp2170_2019Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		952E911B71C4432CEF447D83 /* Pods_ScoutingApp2170_2019.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ScoutingApp2170_2019.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		CBCC7C4C8F1787762A16A4DC /* Pods-ScoutingApp2170_2019.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ScoutingApp2170_2019.debug.xcconfig"; path = "Target Support Files/Pods-ScoutingApp2170_2019/Pods-ScoutingApp2170_2019.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +162,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D8F2B4BE60548F08EA8E0FA0 /* Pods_ScoutingApp2170_2019.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -79,10 +186,18 @@
 		05B31F5621EE95BE001E5200 = {
 			isa = PBXGroup;
 			children = (
+				052F9E522206129200FEE0D6 /* SampleSpreadsheetcopy3.csv */,
+				052F9E4F2206129200FEE0D6 /* SampleSpreadsheetNew.csv */,
+				052F9E502206129200FEE0D6 /* SpreadsheetTestcopy.csv */,
+				052F9E512206129200FEE0D6 /* SpreadsheetTestcopy.txt */,
+				057D776B2230C9E400A00943 /* Spreadsheet2 copy 2.csv */,
+				052F9E57220617F200FEE0D6 /* Spreadsheet2 copy.csv */,
+				052F9E58220617F200FEE0D6 /* Spreadsheet2.csv */,
 				05B31F6121EE95BE001E5200 /* ScoutingApp2170_2019 */,
-				05B31F7921EE95C0001E5200 /* ScoutingApp2170_2019Tests */,
 				05B31F8421EE95C0001E5200 /* ScoutingApp2170_2019UITests */,
 				05B31F6021EE95BE001E5200 /* Products */,
+				7794A45465FADDCC84441B8B /* Pods */,
+				EEAAF5E6D9C4256B19192E0C /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -101,11 +216,55 @@
 			children = (
 				05B31F6221EE95BE001E5200 /* AppDelegate.swift */,
 				05B31F6421EE95BE001E5200 /* ViewController.swift */,
+				05B31FA421EEB42C001E5200 /* DataChoiceViewController.swift */,
+				051639B021F293C20081ACF6 /* MatchDataViewController.swift */,
+				051639B221F2A77D0081ACF6 /* PitScoutingViewController.swift */,
+				050D9E9221F37662007BB319 /* PitScouting2ViewController.swift */,
+				050D9EA421F3B330007BB319 /* ScoringViewController.swift */,
+				0504E91621F7CC2300F9DF4A /* RocketScoringViewController.swift */,
+				0512D89E21FCD8F200CF67C5 /* CargoShipScoringViewController.swift */,
+				0518946F2201183300F33F1B /* MatchFinishViewController.swift */,
+				052F9E472205E5FB00FEE0D6 /* ViewDataViewController.swift */,
+				052F9E4B2205EE4300FEE0D6 /* IndividualTeamDataViewController.swift */,
+				052F9E4D2206120300FEE0D6 /* EmailViewController.swift */,
+				052F9E5B22061B8C00FEE0D6 /* QRSplitViewController.swift */,
+				052F9E5D2206275900FEE0D6 /* QRCodeGeneratorViewController.swift */,
+				052F9E6122062A9100FEE0D6 /* QRCodeReaderViewController.swift */,
+				052F9E63220A4B4B00FEE0D6 /* CameraViewController.swift */,
+				057303E0220E4AD0000D0FDA /* PhotoViewController.swift */,
+				059417E2221CB053006ACB04 /* ServerSplitViewController.swift */,
+				059417E4221CB593006ACB04 /* DropboxViewController.swift */,
+				059417E82225FE86006ACB04 /* FirebaseViewController.swift */,
+				05DDFCA2222AD42B00CF334E /* SuperScoutViewController.swift */,
+				05DDFCA4222AF1A400CF334E /* SuperScout2ViewController.swift */,
 				05B31F6621EE95BE001E5200 /* Main.storyboard */,
+				059417EC2226001A006ACB04 /* MatchData.swift */,
+				05B31F9C21EE9FF0001E5200 /* BackgroundView.swift */,
+				052F9E492205E63800FEE0D6 /* ViewDataButton.swift */,
 				05B31F6C21EE95BF001E5200 /* Assets.xcassets */,
+				05B31F9E21EEA3E5001E5200 /* GHS Robotics Logo.png */,
 				05B31F6E21EE95BF001E5200 /* LaunchScreen.storyboard */,
 				05B31F7121EE95BF001E5200 /* Info.plist */,
+				059417E62225F5FC006ACB04 /* GoogleService-Info.plist */,
 				05B31F6921EE95BE001E5200 /* ScoutingApp2170_2019.xcdatamodeld */,
+				050D9E9421F38923007BB319 /* camera2048.png */,
+				05B31FA021EEB33F001E5200 /* TransparentBackArrow.png */,
+				05B31FA121EEB33F001E5200 /* TransparentForwardArrow.png */,
+				050D9E9621F3ABB7007BB319 /* Cargo.png */,
+				050D9E9721F3ABB7007BB319 /* Rocket.png */,
+				050D9E9821F3ABB8007BB319 /* RocketTop.png */,
+				050D9EA221F3B11C007BB319 /* RocketBottom.png */,
+				050D9E9D21F3ACBF007BB319 /* RocketTopLeft.png */,
+				050D9E9C21F3ACBF007BB319 /* RocketTopRight.png */,
+				0504E91821F7CDF600F9DF4A /* hatch3.png */,
+				0504E91E21F7D88D00F9DF4A /* Hatch4.png */,
+				0504E91A21F7D10800F9DF4A /* Rocket2.png */,
+				0504E91C21F7D1BE00F9DF4A /* CargoBall.png */,
+				0504E92421F7E5ED00F9DF4A /* CargoRotated2.png */,
+				0504E92621FBD45900F9DF4A /* BlankImage.png */,
+				0504E92921FBDF8D00F9DF4A /* minus.png */,
+				0504E92821FBDF8C00F9DF4A /* plus.png */,
+				05B31F7921EE95C0001E5200 /* ScoutingApp2170_2019Tests */,
 			);
 			path = ScoutingApp2170_2019;
 			sourceTree = "<group>";
@@ -128,6 +287,25 @@
 			path = ScoutingApp2170_2019UITests;
 			sourceTree = "<group>";
 		};
+		7794A45465FADDCC84441B8B /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				CBCC7C4C8F1787762A16A4DC /* Pods-ScoutingApp2170_2019.debug.xcconfig */,
+				11687BB173454511191EBAF9 /* Pods-ScoutingApp2170_2019.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		EEAAF5E6D9C4256B19192E0C /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				952E911B71C4432CEF447D83 /* Pods_ScoutingApp2170_2019.framework */,
+				39C5341D5E023C906E207D2D /* Pods_ScoutingApp2170_2019Tests.framework */,
+				0F61624DB6D3A4906B6A4C70 /* Pods_ScoutingApp2170_2019UITests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -135,9 +313,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 05B31F8A21EE95C0001E5200 /* Build configuration list for PBXNativeTarget "ScoutingApp2170_2019" */;
 			buildPhases = (
+				23800D880B77540A6DDBDC62 /* [CP] Check Pods Manifest.lock */,
 				05B31F5B21EE95BE001E5200 /* Sources */,
 				05B31F5C21EE95BE001E5200 /* Frameworks */,
 				05B31F5D21EE95BE001E5200 /* Resources */,
+				913B625E7E8A04959FF07060 /* [CP] Embed Pods Frameworks */,
+				53668A0250A05ED104C3A744 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -232,8 +413,34 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				050D9E9921F3ABB8007BB319 /* Cargo.png in Resources */,
+				050D9E9A21F3ABB8007BB319 /* Rocket.png in Resources */,
+				050D9EA021F3ACBF007BB319 /* RocketTopLeft.png in Resources */,
+				0504E91F21F7D88D00F9DF4A /* Hatch4.png in Resources */,
+				052F9E59220617F200FEE0D6 /* Spreadsheet2 copy.csv in Resources */,
+				052F9E562206129200FEE0D6 /* SampleSpreadsheetcopy3.csv in Resources */,
+				05B31F9F21EEA3E5001E5200 /* GHS Robotics Logo.png in Resources */,
+				050D9E9F21F3ACBF007BB319 /* RocketTopRight.png in Resources */,
+				050D9E9521F38923007BB319 /* camera2048.png in Resources */,
+				0504E92721FBD45900F9DF4A /* BlankImage.png in Resources */,
+				0504E92521F7E5EE00F9DF4A /* CargoRotated2.png in Resources */,
 				05B31F7021EE95BF001E5200 /* LaunchScreen.storyboard in Resources */,
+				0504E91921F7CDF600F9DF4A /* hatch3.png in Resources */,
+				059417E72225F5FC006ACB04 /* GoogleService-Info.plist in Resources */,
+				0504E92B21FBDF8E00F9DF4A /* minus.png in Resources */,
+				0504E92A21FBDF8E00F9DF4A /* plus.png in Resources */,
+				0504E91B21F7D10900F9DF4A /* Rocket2.png in Resources */,
+				052F9E532206129200FEE0D6 /* SampleSpreadsheetNew.csv in Resources */,
+				050D9E9B21F3ABB8007BB319 /* RocketTop.png in Resources */,
+				052F9E552206129200FEE0D6 /* SpreadsheetTestcopy.txt in Resources */,
+				05B31FA221EEB340001E5200 /* TransparentBackArrow.png in Resources */,
+				052F9E5A220617F200FEE0D6 /* Spreadsheet2.csv in Resources */,
+				0504E91D21F7D1BF00F9DF4A /* CargoBall.png in Resources */,
+				057D776C2230C9E400A00943 /* Spreadsheet2 copy 2.csv in Resources */,
+				052F9E542206129200FEE0D6 /* SpreadsheetTestcopy.csv in Resources */,
+				050D9EA321F3B11C007BB319 /* RocketBottom.png in Resources */,
 				05B31F6D21EE95BF001E5200 /* Assets.xcassets in Resources */,
+				05B31FA321EEB340001E5200 /* TransparentForwardArrow.png in Resources */,
 				05B31F6821EE95BE001E5200 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -254,14 +461,115 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		23800D880B77540A6DDBDC62 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-ScoutingApp2170_2019-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		53668A0250A05ED104C3A744 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-ScoutingApp2170_2019/Pods-ScoutingApp2170_2019-resources.sh",
+				"${PODS_CONFIGURATION_BUILD_DIR}/FirebaseUI/FirebaseAuthUI.bundle",
+				"${PODS_CONFIGURATION_BUILD_DIR}/FirebaseUI/FirebaseEmailAuthUI.bundle",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FirebaseAuthUI.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FirebaseEmailAuthUI.bundle",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-ScoutingApp2170_2019/Pods-ScoutingApp2170_2019-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		913B625E7E8A04959FF07060 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-ScoutingApp2170_2019/Pods-ScoutingApp2170_2019-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/GTMSessionFetcher/GTMSessionFetcher.framework",
+				"${BUILT_PRODUCTS_DIR}/GoogleUtilities/GoogleUtilities.framework",
+				"${BUILT_PRODUCTS_DIR}/leveldb-library/leveldb.framework",
+				"${BUILT_PRODUCTS_DIR}/nanopb/nanopb.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GTMSessionFetcher.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GoogleUtilities.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/leveldb.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/nanopb.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-ScoutingApp2170_2019/Pods-ScoutingApp2170_2019-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		05B31F5B21EE95BE001E5200 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0504E91721F7CC2300F9DF4A /* RocketScoringViewController.swift in Sources */,
+				052F9E64220A4B4B00FEE0D6 /* CameraViewController.swift in Sources */,
 				05B31F6521EE95BE001E5200 /* ViewController.swift in Sources */,
+				052F9E4A2205E63800FEE0D6 /* ViewDataButton.swift in Sources */,
+				059417ED2226001A006ACB04 /* MatchData.swift in Sources */,
 				05B31F6B21EE95BE001E5200 /* ScoutingApp2170_2019.xcdatamodeld in Sources */,
+				052F9E4C2205EE4300FEE0D6 /* IndividualTeamDataViewController.swift in Sources */,
+				050D9E9321F37662007BB319 /* PitScouting2ViewController.swift in Sources */,
+				052F9E482205E5FB00FEE0D6 /* ViewDataViewController.swift in Sources */,
+				051639B121F293C20081ACF6 /* MatchDataViewController.swift in Sources */,
+				0512D89F21FCD8F200CF67C5 /* CargoShipScoringViewController.swift in Sources */,
+				052F9E5C22061B8C00FEE0D6 /* QRSplitViewController.swift in Sources */,
+				057303E1220E4AD0000D0FDA /* PhotoViewController.swift in Sources */,
+				050D9EA521F3B330007BB319 /* ScoringViewController.swift in Sources */,
+				059417E5221CB593006ACB04 /* DropboxViewController.swift in Sources */,
+				05B31F9D21EE9FF0001E5200 /* BackgroundView.swift in Sources */,
+				059417E92225FE86006ACB04 /* FirebaseViewController.swift in Sources */,
+				052F9E4E2206120300FEE0D6 /* EmailViewController.swift in Sources */,
+				051639B321F2A77D0081ACF6 /* PitScoutingViewController.swift in Sources */,
+				05DDFCA5222AF1A400CF334E /* SuperScout2ViewController.swift in Sources */,
+				05DDFCA3222AD42B00CF334E /* SuperScoutViewController.swift in Sources */,
+				052F9E5E2206275900FEE0D6 /* QRCodeGeneratorViewController.swift in Sources */,
+				05B31FA521EEB42C001E5200 /* DataChoiceViewController.swift in Sources */,
+				059417E3221CB053006ACB04 /* ServerSplitViewController.swift in Sources */,
+				052F9E6222062A9100FEE0D6 /* QRCodeReaderViewController.swift in Sources */,
 				05B31F6321EE95BE001E5200 /* AppDelegate.swift in Sources */,
+				051894702201183300F33F1B /* MatchFinishViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -367,7 +675,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -422,7 +730,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
@@ -434,16 +742,18 @@
 		};
 		05B31F8B21EE95C0001E5200 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = CBCC7C4C8F1787762A16A4DC /* Pods-ScoutingApp2170_2019.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = JQ623K3DXQ;
+				DEVELOPMENT_TEAM = 5494GRQ5MD;
 				INFOPLIST_FILE = ScoutingApp2170_2019/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "hwacha.ScoutingApp2170-2019";
+				PRODUCT_BUNDLE_IDENTIFIER = hwacha.ScoutingApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -452,16 +762,18 @@
 		};
 		05B31F8C21EE95C0001E5200 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 11687BB173454511191EBAF9 /* Pods-ScoutingApp2170_2019.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = JQ623K3DXQ;
+				DEVELOPMENT_TEAM = 5494GRQ5MD;
 				INFOPLIST_FILE = ScoutingApp2170_2019/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "hwacha.ScoutingApp2170-2019";
+				PRODUCT_BUNDLE_IDENTIFIER = hwacha.ScoutingApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -474,7 +786,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = JQ623K3DXQ;
+				DEVELOPMENT_TEAM = 5494GRQ5MD;
 				INFOPLIST_FILE = ScoutingApp2170_2019Tests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -495,7 +807,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = JQ623K3DXQ;
+				DEVELOPMENT_TEAM = 5494GRQ5MD;
 				INFOPLIST_FILE = ScoutingApp2170_2019Tests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -515,7 +827,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = JQ623K3DXQ;
+				DEVELOPMENT_TEAM = 5494GRQ5MD;
 				INFOPLIST_FILE = ScoutingApp2170_2019UITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -535,7 +847,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = JQ623K3DXQ;
+				DEVELOPMENT_TEAM = 5494GRQ5MD;
 				INFOPLIST_FILE = ScoutingApp2170_2019UITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",

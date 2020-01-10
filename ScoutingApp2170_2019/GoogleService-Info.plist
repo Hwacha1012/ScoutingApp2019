@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>422052491601-1o2kp0quf2v1phb1372d5u5hgctsp22u.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.422052491601-1o2kp0quf2v1phb1372d5u5hgctsp22u</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDFjENokzuSgd3ZRVwiTD3TfivxnzLxPPs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>422052491601</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>hwacha.ScoutingApp2019</string>
+	<key>PROJECT_ID</key>
+	<string>frc-scouting-2170-2019</string>
+	<key>STORAGE_BUCKET</key>
+	<string>frc-scouting-2170-2019.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:422052491601:ios:6b5a43f4590d4d97</string>
+	<key>DATABASE_URL</key>
+	<string>https://frc-scouting-2170-2019.firebaseio.com</string>
+</dict>
+</plist>
